@@ -55,7 +55,7 @@ The project is structured as follows:
     Replace `<Path to your Solana wallet keypair file>` with the path to your Solana wallet keypair file or use your mnemonic in the `SOLANA_MNEMONIC` field.
     Set `ENABLE_TRADING` to true to enable live trading or false to run in simulation mode.
 ## Running the Bot
-
+test
 To start the market maker bot, execute the following command in the terminal:
 
 ```bash
